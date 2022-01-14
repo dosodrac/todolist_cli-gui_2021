@@ -1,6 +1,13 @@
 # Todo list - Java project (2021)
 
-This project required writing a simple todo list application, with the user being able to interact with it through command line (CLI folder) or through the GUI (GUI folder) created for the application with file persistence embedded. 
+This project required writing a simple todo list application interactable through the command line with the following features: 
+* CLIMenu class, for handling the menu system for the application 
+List, add, update and delete todos 
+Option to choose color, importance and status per todo.
+* file persistence, allowing the user to select and load the file of saved todos.
+
+Later I have written the GUI which allows the user to interact with the application through the use of a keyboard and a mouse. I have applied my knowledge of arrayLists, enums, inheritance, method overriding, event handling, swing components and containers. 
+My code is commented for better understanding and to memorise logic for future edits.
 
 *Grade 93/100*
 
