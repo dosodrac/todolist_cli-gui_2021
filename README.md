@@ -2,7 +2,7 @@
 
 This project required writing a simple todo list application, with the user being able to interact with it through command line (CLI folder) or through the GUI (GUI folder) created for the application with file persistence embedded. 
 
-*Grade 93/100
+*Grade 93/100*
 
 -----
 
