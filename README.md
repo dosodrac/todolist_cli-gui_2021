@@ -8,11 +8,16 @@ This project required writing a simple todo list application, with the user bein
 
 # Screenshots 
 **CLI**
-<img src="https://user-images.githubusercontent.com/57752800/137224473-e30f5815-e143-4458-b4a8-cf101da11b5e.png" width="30%"></img> 
 
------
+<img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/CLI1_options.png" width="30%"></img> 
+<img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/CLI2_add_todo.png" width="30%"></img> 
+<img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/CLI3_list_todos.png" width="30%"></img> 
+<img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/CLI4_update_todos.png" width="30%"></img> 
+
+
 
 **GUI**
+
 <img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/GUI1_list_todos.png" width="30%"></img> 
 <img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/GUI2_add_todo.png" width="30%"></img> 
 <img src="https://github.com/dosodrac/todolist_gui_2021/blob/main/screenshots/GUI3_update_todo.png" width="30%"></img> 
